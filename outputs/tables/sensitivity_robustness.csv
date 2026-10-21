@@ -1,0 +1,49 @@
+kind,side,player,league,club_2526,scenarios,robustness_pct
+best_fit,CB,Malick Thiaw,Premier League,Newcastle,132,98.0
+best_fit,CB,Sven Botman,Premier League,Newcastle,117,87.0
+best_fit,CB,R. Flamingo,Eredivisie,PSV,100,74.0
+best_fit,CB,Jan Paul van Hecke,Premier League,Brighton,84,62.0
+best_fit,CB,Abdukodir Khusanov,Premier League,Man City,45,33.0
+best_fit,CB,Ibrahima Konaté,Premier League,Liverpool,35,26.0
+best_fit,CB,M. Smets,Belgian Pro League,Genk,9,7.0
+best_fit,CB,Marc Guéhi,Premier League,Crystal Palace,9,7.0
+best_fit,CB,E. Utkus,Belgian Pro League,Cercle Brugge,6,4.0
+best_fit,CB,E. Bayram,Belgian Pro League,Westerlo,2,1.0
+best_fit,CB,James Hill,Premier League,Bournemouth,1,1.0
+best_fit,LB,J. Bos,Eredivisie,Feyenoord,135,100.0
+best_fit,LB,Lewis Hall,Premier League,Newcastle,135,100.0
+best_fit,LB,Neco Williams,Premier League,Nott'm Forest,130,96.0
+best_fit,LB,Mauro Júnior,Eredivisie,PSV,63,47.0
+best_fit,LB,Rayan Aït-Nouri,Premier League,Man City,27,20.0
+best_fit,LB,Gabriel Gudmundsson,Premier League,Leeds,23,17.0
+best_fit,LB,Nazinho,Belgian Pro League,Cercle Brugge,12,9.0
+best_fit,LB,Maxim De Cuyper,Premier League,Brighton,10,7.0
+best_fit,LB,S. El Karouani,Eredivisie,Utrecht,4,3.0
+best_fit,LB,Adrien Truffert,Premier League,Bournemouth,1,1.0
+best_fit,RB,Pedro Porro Sauceda,Premier League,Spurs,135,100.0
+best_fit,RB,B. van Rooij,Eredivisie,Twente,48,36.0
+best_fit,RB,Matheus Nunes,Premier League,Man City,24,18.0
+best_fit,RB,S. Dest,Eredivisie,PSV,19,14.0
+best_fit,RB,Malo Gusto,Premier League,Chelsea,8,6.0
+realistic,CB,R. Flamingo,Eredivisie,PSV,135,100.0
+realistic,CB,Sven Botman,Premier League,Newcastle,117,87.0
+realistic,CB,E. Utkus,Belgian Pro League,Cercle Brugge,90,67.0
+realistic,CB,M. Smets,Belgian Pro League,Genk,83,61.0
+realistic,CB,James Hill,Premier League,Bournemouth,36,27.0
+realistic,CB,E. Bayram,Belgian Pro League,Westerlo,34,25.0
+realistic,CB,Sepp van den Berg,Premier League,Brentford,15,11.0
+realistic,CB,Nathan Collins,Premier League,Brentford,12,9.0
+realistic,CB,L. Greiml,Eredivisie,NAC Breda,10,7.0
+realistic,CB,Kevin Danso,Premier League,Spurs,4,3.0
+realistic,CB,R. Hillen,Eredivisie,NAC Breda,4,3.0
+realistic,LB,J. Bos,Eredivisie,Feyenoord,135,100.0
+realistic,LB,Lewis Hall,Premier League,Newcastle,135,100.0
+realistic,LB,Neco Williams,Premier League,Nott'm Forest,135,100.0
+realistic,LB,Mauro Júnior,Eredivisie,PSV,70,52.0
+realistic,LB,Gabriel Gudmundsson,Premier League,Leeds,26,19.0
+realistic,LB,Maxim De Cuyper,Premier League,Brighton,20,15.0
+realistic,LB,Nazinho,Belgian Pro League,Cercle Brugge,12,9.0
+realistic,LB,S. El Karouani,Eredivisie,Utrecht,5,4.0
+realistic,LB,Adrien Truffert,Premier League,Bournemouth,2,1.0
+realistic,RB,S. Dest,Eredivisie,PSV,99,73.0
+realistic,RB,B. van Rooij,Eredivisie,Twente,72,53.0

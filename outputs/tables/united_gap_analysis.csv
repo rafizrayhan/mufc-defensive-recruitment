@@ -1,0 +1,21 @@
+role,metric,united_weighted_percentile,weakness
+CB,Accurate long balls,46.1,True
+CB,Aerials won,47.9,True
+CB,Interceptions,52.0,False
+CB,Clearances,53.6,False
+CB,Blocks,55.1,False
+CB,Not dribbled past,55.7,False
+CB,Ground duels won,57.0,False
+CB,Pass accuracy %,59.2,False
+CB,Tackles,65.9,False
+CB,Aerial win %,73.6,False
+FB,Final-third passes,38.0,True
+FB,Accurate crosses,40.7,True
+FB,Successful dribbles,42.1,True
+FB,xA,43.5,True
+FB,Ground duels won,44.5,True
+FB,Chances created,47.3,True
+FB,Recoveries,56.8,False
+FB,Not dribbled past,61.7,False
+FB,Tackles,65.0,False
+FB,Interceptions,65.9,False
